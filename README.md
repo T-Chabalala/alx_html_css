@@ -1,7 +1,11 @@
-## Design Reference
+cat << 'EOF' > README.md
+# 🎧 Headphones Landing Page
 
-- The design was provided in **Figma**.  
-- To work with it:
-  1. Create a Figma account (if you don’t already have one).
-  2. Open the shared project link.
-  3. **Duplicate to Drafts** to unlock all design details.
+This project is part of the ALX Front-End curriculum.
+It implements a responsive landing page based on a Figma design.
+
+- Mobile breakpoint: 480px
+- Links hover/active: #FF6565
+- Button hover/active: opacity 0.9
+- Max content width: 1000px (centered)
+EOF
